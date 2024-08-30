@@ -5,7 +5,7 @@
 
 **1.Programming Languages**
 
-![sql-server (2) (1)](https://github.com/rahulnshakya/rahulnshakya/assets/171424463/4db47976-e521-4b78-b61d-14cc25359f4a)    ![python (1) (1)](https://github.com/rahulnshakya/rahulnshakya/assets/171424463/4d094bb6-8a6f-486e-8a72-771ac3963f00)          ![r-programming-language-icon (1)](https://github.com/rahulnshakya/rahulnshakya/assets/171424463/776c9a29-9592-4b2f-873e-d031be6e60a4)
+![sql-server (2) (1)](https://github.com/rahulnshakya/rahulnshakya/assets/171424463/4db47976-e521-4b78-b61d-14cc25359f4a)    ![python (1) (1)](https://github.com/rahulnshakya/rahulnshakya/assets/171424463/4d094bb6-8a6f-486e-8a72-771ac3963f00)          <!--![r-programming-language-icon (1)](https://github.com/rahulnshakya/rahulnshakya/assets/171424463/776c9a29-9592-4b2f-873e-d031be6e60a4)-->
 
 
 
